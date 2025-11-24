@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки Launcher</string>
+    <string name="launch_settings">Запустить настройки</string>
+    <string name="launch_camera">Запустить камеру</string>
+    <string name="launch_browser">Запустить браузер</string>
+    <string name="launch_calculator">Запустить калькулятор</string>
+    <string name="description">Выберите приложение для запуска:</string>
+    <string name="title">🚀 Настройки Launcher</string>
+</resources>
